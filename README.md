@@ -109,3 +109,4 @@ The Yii Files is free software. It is released under the terms of the BSD Licens
 Please see [`LICENSE`](./LICENSE.md) for more information.
 
 Maintained by [Yii Software](https://www.yiiframework.com/).
+
